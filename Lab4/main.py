@@ -12,4 +12,16 @@ with open("iris.data",'r') as file:
 with open("result.txt",'w',encoding="UTF-8") as result_file:
     result_file.write(str(average))
 
+#Файл iris.data содержит информацию о цветках ириса
+#Информация о атрибутах цветка:
+#№1. длина чашелистика в см
+#№2. ширина чашелистика в см
+#№3. длина лепестка в см
+#№4. ширина лепестка в см
+#5. class:
+#-- Iris Setosa
+#-- Iris Versicolour
+#-- Iris Virginica
 
+#Нужно посчитать среднюю длину лепестка, где class='Iris Setosa'
+#Длина лепестка - Индекс 2
