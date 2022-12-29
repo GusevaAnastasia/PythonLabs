@@ -15,7 +15,7 @@ def read_from_json():
 d = Dog("workers","Japan","black")
 b = Beagle("hunter","UK","brown",5,0.5)
 c = Cavalier("hunter","UK","blenheim",70000,"great")
-p = Pomeranian("hunter","UK","white",10,7)
+p = Pomeranian("hunter","UK","white",1.1)
 s = Samoyed("herder","Russia","white",0.8)
 
 l=[d, b, c, p, s]

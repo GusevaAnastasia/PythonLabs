@@ -1,0 +1,34 @@
+{
+    "amount": 5,
+    "obj":[
+        {
+            "name": "Dog",
+            "_group": "workers",
+            "_country": "japan",
+            "_color": "black"
+            },
+        {
+            "name": "Beagle",
+            "_group": "hunter",
+            "_country": "UK",
+            "_color": "brown",
+            "_age": 5,
+            "_max_height": 0.5
+            },
+        {
+            "name": "Cavalier",
+            "_group": "hunter",
+            "_country": "UK",
+            "_color": "brown",
+            "_price": 70000,
+            "_health_condition": "great"
+            },
+        {
+            "name":  "Pomeranian",
+            "_group": "hunter",
+            "_country": "UK",
+            "_color": "white",
+            "_max_length": 0.7
+            },
+            
+            
